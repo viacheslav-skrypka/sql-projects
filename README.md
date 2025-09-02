@@ -1,4 +1,4 @@
-# sql-projects
+# Metrics by country
 
 This SQL query is designed to analyze user behavior and engagement based on account and email activity. It calculates key metrics such as the number of created accounts, sent emails, opened emails, and clicks, segmented by important dimensions:
 
